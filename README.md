@@ -28,3 +28,6 @@ We used Jupyter Notebook and the CityPy module to get the cities for about 2000 
 ##### WeatherPy Travel Map
 ![WeatherPy_travel_map](https://user-images.githubusercontent.com/107603065/183279482-4f72dc6b-2abb-4ddc-bd04-0ed0a07bcfcb.png)
 
+
+##### WeatherPy Travel Map Markers
+![WeatherPy_travel_map_markers](https://user-images.githubusercontent.com/107603065/183279518-77fdfe80-3528-41cb-8672-9cbcebba0ab1.png)
